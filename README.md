@@ -1,0 +1,1 @@
+A simple script to allow the ears to show though every bit of armor.
